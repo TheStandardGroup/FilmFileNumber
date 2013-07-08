@@ -1,0 +1,12 @@
+Database Connection String:
+
+	Code connection:
+		
+		Live SQL Server (Domain = DATABASE)
+			"Server=database;DataBase=;User Id=VdpAdmin;Password=VdpAdminPassword";
+			
+		Test SQL Server (Domain = ONLINETEST)
+			"Server=ONLINETEST;DataBase=;User Id=sa;Password=VdpAdminPassword";
+
+	From VS 2008:
+		Data Source=DATABASE;Initial Catalog=SOPlive_dosrun;Persist Security Info=True;User ID=VdpAdmin;Password=V69rint1100
